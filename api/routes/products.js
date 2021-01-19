@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const productsList = require('../data/productsList.js');
+const productsList = require('../data/productList.json');
 
 router.get('/', (req, res, next) => {
     res.status(200).json({
