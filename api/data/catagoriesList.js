@@ -1,0 +1,30 @@
+const catagoriesList = [
+    {
+        "name": "electronics",
+        "title": "Electronics",
+        "image": "https://media.istockphoto.com/photos/computer-peripherals-laptop-accessories-composition-on-stone-picture-id635790376?k=6&m=635790376&s=170667a&w=0&h=o05iuoDoMo-56VZuUYUqbmp6fX-5u6DSMfl-JGHAivs="
+    },
+    {
+        "name": "mobiles",
+        "title": "Cell Phones",
+        "image": "https://miro.medium.com/max/2560/1*goGPwn50r5CuNC_dlXnU9A.jpeg"
+    },
+    {
+        "name": "books",
+        "title": "Books",
+        "image": "https://hips.hearstapps.com/bpc.h-cdn.co/assets/17/51/1513893130-motivational-books.jpg"
+    },
+    {
+        "name": "healthCare",
+        "title": "Beauty & Health Care",
+        "image": "https://jnj-content-lab.brightspotcdn.com/dims4/default/33a0205/2147483647/strip/true/crop/1173x660+113+0/resize/910x512!/quality/90/?url=http%3A%2F%2Fjnj-brightspot.s3.amazonaws.com%2F66%2Ff5%2F493a65844e269c41d2f4d5a3c572%2Fj-j-sustainability-lede.jpg"
+    },
+    {
+        "name": "gadgets",
+        "title": "Gadgets",
+        "image": "https://1.bp.blogspot.com/-lj-GQq0d4IA/XYmnLbh6YZI/AAAAAAAABp4/VBLAiMRqlcILtPITfS3iBdqEWL7tDeiVQCLcBGAsYHQ/s1600/9%2Bbest%2BPortable%2BTech%2Bgadgets%2Bfor%2BEveryday%2BUse.jpg"
+    },
+]
+
+
+module.exports = catagoriesList;
